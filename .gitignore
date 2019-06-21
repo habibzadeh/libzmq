@@ -1,7 +1,7 @@
 syntax: glob # for hg-git users
 /Makefile
-.cmake-build-release/
-.cmake-build-debug/
+cmake-build-release/
+cmake-build-debug/
 builds/Makefile
 builds/deprecated-msvc/Makefile
 configure
