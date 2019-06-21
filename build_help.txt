@@ -1,0 +1,5 @@
+Build for metatrader 4 x86:
+Set Environment variable > platform=Win32
+
+Check this link for more build option:
+https://ci.appveyor.com/project/zeromq/libzmq

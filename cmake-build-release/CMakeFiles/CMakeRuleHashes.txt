@@ -1,0 +1,5 @@
+# Hashes of file build rules.
+a262f71caea642691c7426a499c40863 CMakeFiles/clang-format
+5d7d7eb290d74091aa532a965514f115 CMakeFiles/clang-format-check
+49ef4c6edc82e2d8be4c9303c9393902 CMakeFiles/clang-format-diff
+78399592ef6bc667290872059522f075 NSIS.template.in

@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Projects/Forex/MqlFxTrader/Libs/C/libzmq/include/zmq.h
+errno.h
+-
+stddef.h
+-
+stdio.h
+-
+winsock2.h
+-
+inttypes.h
+-
+stdint.h
+-
+poll.h
+-
+
+D:/Projects/Forex/MqlFxTrader/Libs/C/libzmq/perf/local_thr.cpp
+../include/zmq.h
+D:/Projects/Forex/MqlFxTrader/Libs/C/libzmq/include/zmq.h
+stdio.h
+-
+stdlib.h
+-
+

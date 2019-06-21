@@ -1,0 +1,15 @@
+"C:\Program Files\JetBrains\CLion 2019.1.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Release -G "CodeBlocks - NMake Makefiles" D:\Projects\Forex\MqlFxTrader\Libs\C\libzmq
+-- Detected ZMQ Version - 4.3.2
+-- Using tweetnacl for CURVE security
+-- Using radix tree implementation to manage subscriptions
+-- Using polling method in I/O threads: select
+-- Using polling method in zmq_poll(er)_* API: select
+-- Using 64 bytes alignment for lock-free data structures
+-- Detected _WIN32_WINNT from CMAKE_SYSTEM_VERSION: 0x0A00
+-- Using condition_variable_t implementation: stl11
+-- Checking whether noexcept is supported
+-- Could NOT find AsciiDoc (missing: ASCIIDOC_EXECUTABLE) 
+-- capsh not found, skipping tests that require CAP_NET_ADMIN
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/Projects/Forex/MqlFxTrader/Libs/C/libzmq/cmake-build-release

@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Projects/Forex/MqlFxTrader/Libs/C/libzmq/src/tweetnacl.c
+platform.hpp
+D:/Projects/Forex/MqlFxTrader/Libs/C/libzmq/src/platform.hpp
+tweetnacl.h
+D:/Projects/Forex/MqlFxTrader/Libs/C/libzmq/src/tweetnacl.h
+windows.h
+-
+wincrypt.h
+-
+unistd.h
+-
+assert.h
+-
+sys/random.h
+-
+sys/types.h
+-
+sys/stat.h
+-
+fcntl.h
+-
+
+D:/Projects/Forex/MqlFxTrader/Libs/C/libzmq/src/tweetnacl.h
+
+platform.hpp
+
